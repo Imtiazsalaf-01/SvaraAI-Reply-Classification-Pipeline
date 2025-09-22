@@ -1,6 +1,6 @@
-# SvaraAI Reply Sentiment Classifier
+# SvaraAI-Reply-Classification-Pipeline
 
-A machine learning system for classifying email reply sentiment as positive, negative, or neutral. Built for the SvaraAI ML Engineer Internship Assignment.
+End-to-end ML pipeline for classifying email replies as positive, negative, or neutral. Implements baseline (Logistic Regression) and transformer (DistilBERT) models, evaluated with Accuracy & F1, and deployed via FastAPI /predict API with Docker support.
 
 ## 🎯 Project Overview
 
@@ -11,7 +11,7 @@ This project implements a complete ML pipeline for email reply classification:
 
 ## 📊 Dataset
 
-The dataset contains email replies with sentiment labels:
+The dataset consists of labeled email replies, categorized into:
 - **Positive**: Interested, excited, wants to proceed
 - **Negative**: Not interested, wants to be removed  
 - **Neutral**: Asking questions, requesting information
@@ -120,7 +120,7 @@ print(response.json())
 - **Inference Time**: ~1-5ms per sample
 - **Model Size**: ~34KB
 
-### Transformer Model (DistilBERT) - Optional
+### TTransformer Model (DistilBERT) – Advanced
 - **Accuracy**: Typically 1-3% higher than baseline
 - **Inference Time**: ~20-50ms per sample  
 - **Model Size**: ~250MB
@@ -200,6 +200,6 @@ python src/app.py
 
 ---
 
-**Assignment Status**: ✅ Complete  
+**📌 Assignment Alignment: Fully implements all deliverables (Part A, Part B, Part C).  
 **Estimated Runtime**: 5-10 minutes for full pipeline  
 **API Documentation**: Available at `http://localhost:8000/docs` when running
