@@ -200,6 +200,6 @@ python src/app.py
 
 ---
 
-**Assignment Alignment: Fully implements all deliverables (Part A, Part B, Part C).  
+**Assignment Alignment**: Fully implements all deliverables (Part A, Part B, Part C).  
 **Estimated Runtime**: 5-10 minutes for full pipeline  
 **API Documentation**: Available at `http://localhost:8000/docs` when running
