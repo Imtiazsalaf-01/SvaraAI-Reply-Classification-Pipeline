@@ -1,0 +1,2 @@
+model_type,validation_accuracy,validation_f1_macro,test_accuracy,test_f1_macro
+baseline,0.9953051643192489,0.9953049314751442,0.9906103286384976,0.9906096907532707

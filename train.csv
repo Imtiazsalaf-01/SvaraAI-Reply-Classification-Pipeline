@@ -1,0 +1,1491 @@
+reply,label,reply_length,word_count
+Send me the details and I’ll review.,neutral,36,7
+"This could work for our team, send me the proposal.",positive,51,10
+Can u share feature list?,neutral,25,5
+Plz send feature roadmap,neutral,24,4
+Im excited about oppurtunity!,positive,29,4
+Send pricing structure plz,neutral,26,4
+"This could be perfect, send proposal!",positive,37,6
+"This could be perfect, connect!",positive,31,5
+Can u share cost structure?,neutral,27,5
+"Im intrested, plz send proposal",positive,31,5
+"Not intrested, plz stop.",negative,24,4
+Lets discuss in meeting!,positive,24,4
+Plz send technical guide,neutral,24,4
+We don’t need this solution right now.,negative,38,7
+Lets schdule demo next week!,positive,28,5
+Dont need this solution,negative,23,4
+Id love to learn more!,positive,22,5
+No intrest right now,negative,20,4
+Not intrested in service,negative,24,4
+Were happy w/ setup,negative,19,4
+No need for this,negative,16,4
+Plz send technical guide,neutral,24,4
+Can u provide trial account?,neutral,28,5
+Can u share cost structure?,neutral,27,5
+Plz send feature list,neutral,21,4
+Plz send technical documentation,neutral,32,4
+Can u provide demo video?,neutral,25,5
+Plz send technical specs,neutral,24,4
+Im eager to learn more!,positive,23,5
+"Sounds interesting, let’s set up a call.",positive,40,7
+No intrest in product,negative,21,4
+No need for solution,negative,20,4
+Lets discuss in meeting!,positive,24,4
+"Please share the details, I’m interested.",positive,41,6
+Lets schdule demo next week!,positive,28,5
+Doesnt align w/ goals,negative,21,4
+Lets discuss how integrates!,positive,28,4
+Not intrested in service,negative,24,4
+Can u provide feature roadmap?,neutral,30,5
+No intrest in product,negative,21,4
+Can u share trial account?,neutral,26,5
+I am not the right person to contact.,negative,37,8
+Not intrested in service,negative,24,4
+Not open to vendors,negative,19,4
+Lets discuss how integrates!,positive,28,4
+Can u provide case study?,neutral,25,5
+"This sounds fantastic, schedule!",positive,32,4
+Not intrested in service,negative,24,4
+Were not intrested in vendors,negative,29,5
+Lets discuss how integrates!,positive,28,4
+I’ll forward this to my manager.,neutral,32,6
+Lets discuss how integrates!,positive,28,4
+"This could be game-changer, connect!",positive,36,5
+Please remove me from your mailing list.,negative,40,7
+Looking forward to demo!,positive,24,4
+Lets discuss in meeting!,positive,24,4
+Not fit for strategy,negative,20,4
+Not fit for strategy,negative,20,4
+Id love to explore solution!,positive,28,5
+Can u provide demo video?,neutral,25,5
+Not good fit for team,negative,21,5
+Id love to see in action!,positive,25,6
+  We not looking for new solutions.  ,negative,37,6
+Plz send pricing guide,neutral,22,4
+Plz send technical guide,neutral,24,4
+Can u share demo link?,neutral,22,5
+We don’t need this solution right now.,negative,38,7
+Plz provide pricing structure,neutral,29,4
+Can u share feature roadmap?,neutral,28,5
+Not relevant to team,negative,20,4
+No need for this,negative,16,4
+Id love to discuss w/ your team!,positive,32,7
+No intrest in product,negative,21,4
+"This could streamline, talk!",positive,28,4
+Were happy w/ setup,negative,19,4
+No need for solution,negative,20,4
+Id love to learn more!,positive,22,5
+Isnt priority right now,negative,23,4
+We don’t need this solution right now.,negative,38,7
+Doesnt meet needs,negative,17,3
+Were happy w/ provider,negative,22,4
+We already have a vendor for this.,negative,34,7
+"This sounds great, schdule call!",positive,32,5
+Not open to vendors,negative,19,4
+No need for solution,negative,20,4
+"Yes, I would love to schedule a demo.",positive,37,8
+We already have a vendor for this.,negative,34,7
+We don’t need this solution right now.,negative,38,7
+Can u provide demo link?,neutral,24,5
+Not open to vendors,negative,19,4
+Can u share pricing guide?,neutral,26,5
+Id love to see demo!,positive,20,5
+Im eager to see demo!,positive,21,5
+Not intrested in offer,negative,22,4
+Can u share pricing structure?,neutral,30,5
+Not intrested in product,negative,24,4
+No need in workflow,negative,19,4
+"I’m busy this week, maybe later.",neutral,32,6
+Not open to vendors,negative,19,4
+Can u provide support terms?,neutral,28,5
+Im eager to learn more!,positive,23,5
+Can u share API documentation?,neutral,30,5
+Were happy w/ setup,negative,19,4
+Doesnt meet requirements,negative,24,3
+Not intrest right now,negative,21,4
+Im eager to explore!,positive,20,4
+No need for solution,negative,20,4
+Not fit for strategy,negative,20,4
+Were happy w/ setup,negative,19,4
+I’ll forward this to my manager.,neutral,32,6
+Were happy w/ setup,negative,19,4
+No intrest in product,negative,21,4
+Send me the details and I’ll review.,neutral,36,7
+Not open to vendors,negative,19,4
+Plz send technical guide,neutral,24,4
+Not open to vendors,negative,19,4
+Im eager to explore!,positive,20,4
+Were happy w/ setup,negative,19,4
+Can u share cost structure?,neutral,27,5
+No need for solution,negative,20,4
+Send pricing structure plz,neutral,26,4
+Plz send pricing structure,neutral,26,4
+No need in workflow,negative,19,4
+Were happy w/ setup,negative,19,4
+Plz send feature roadmap,neutral,24,4
+Lets set up product overview!,positive,29,5
+Id love to see in action!,positive,25,6
+Plz send pricing breakdown,neutral,26,4
+"This could be perfect, send proposal!",positive,37,6
+Not open to vendors,negative,19,4
+Not good fit for team,negative,21,5
+Can u provide trial account?,neutral,28,5
+Can u share cost structure?,neutral,27,5
+Can u provide case study?,neutral,25,5
+Were happy w/ setup,negative,19,4
+"This could streamline, send proposal!",positive,37,5
+Id love to explore solution!,positive,28,5
+Id love to see in action!,positive,25,6
+Im excited to see in action!,positive,28,6
+Were happy w/ setup,negative,19,4
+No need in workflow,negative,19,4
+No intrest right now,negative,20,4
+Not fit for strategy,negative,20,4
+Please remove me from your mailing list.,negative,40,7
+Were happy w/ setup,negative,19,4
+Im eager to review!,positive,19,4
+Id love to see in action!,positive,25,6
+Can u provide case study?,neutral,25,5
+Not relevant to ops,negative,19,4
+Send feature comparison plz,neutral,27,4
+Send pricing structure plz,neutral,26,4
+Plz share feature roadmap,neutral,25,4
+Can u share demo video?,neutral,23,5
+Can u provide feature roadmap?,neutral,30,5
+Lets schdule demo next week!,positive,28,5
+Can u share support plan?,neutral,25,5
+"This could be perfect, connect!",positive,31,5
+"Not interested, thank you.",negative,26,4
+Send demo link plz,neutral,18,4
+"This could streamline, send proposal!",positive,37,5
+Can you share more information?,neutral,31,5
+Im eager to review!,positive,19,4
+No intrest right now,negative,20,4
+Lets discuss how integrates!,positive,28,4
+Can u share feature list?,neutral,25,5
+Doesnt meet requirements,negative,24,3
+Im excited about oppurtunity!,positive,29,4
+No intrested in service,negative,23,4
+"This sounds great, connect!",positive,27,4
+Id love to explore solution!,positive,28,5
+Send feature list plz,neutral,21,4
+Not looking for tools,negative,21,4
+Can u provide case study?,neutral,25,5
+No need for this service,negative,24,5
+No intrest right now,negative,20,4
+Plz stop reaching out,negative,21,4
+No intrested in service,negative,23,4
+Not fit for strategy,negative,20,4
+Id love to see demo!,positive,20,5
+"This could streamline, send proposal!",positive,37,5
+No need for solution,negative,20,4
+Id love to explore!,positive,19,4
+Please remove me from your mailing list.,negative,40,7
+Plz send pricing breakdown,neutral,26,4
+No need for this,negative,16,4
+Send support plan plz,neutral,21,4
+No intrested in service,negative,23,4
+Id love to review w/ team!,positive,26,6
+I am not the right person to contact.,negative,37,8
+Not open to vendors,negative,19,4
+Were not pursuing,negative,17,3
+Not open to vendors,negative,19,4
+Can u share cost structure?,neutral,27,5
+Id love to discuss w/ team!,positive,27,6
+Lets schdule demo next week!,positive,28,5
+Im excited to see in action!,positive,28,6
+What exactly does your product do?,neutral,34,6
+Can u provide demo video?,neutral,25,5
+"Please share the details, I’m interested.",positive,41,6
+Lets discuss in meeting!,positive,24,4
+"Please share the details, I’m interested.",positive,41,6
+Not good fit for us,negative,19,5
+Were not intrested,negative,18,3
+Send demo link plz,neutral,18,4
+Not good fit for us,negative,19,5
+Id love to see how works!,positive,25,6
+Not intrest right now,negative,21,4
+No intrest right now,negative,20,4
+Plz send technical specs,neutral,24,4
+"This could be great, send proposal!",positive,35,6
+Send feature roadmap plz,neutral,24,4
+Can u share trial account?,neutral,26,5
+Lets discuss in meeting!,positive,24,4
+Not fit for strategy,negative,20,4
+"This could streamline, talk!",positive,28,4
+Not fit for setup,negative,17,4
+Im excited about oppurtunity!,positive,29,4
+Can u share demo video?,neutral,23,5
+"This could streamline, talk!",positive,28,4
+Can u provide feature comparison?,neutral,33,5
+Can u share feature comparison?,neutral,31,5
+Send pricing breakdown plz,neutral,26,4
+Id love to explore solution!,positive,28,5
+Can u share feature comparison?,neutral,31,5
+Not fit for strategy,negative,20,4
+Can u provide cost structure?,neutral,29,5
+Were happy w/ setup,negative,19,4
+No need in workflow,negative,19,4
+Send me the details and I’ll review.,neutral,36,7
+Were happy w/ current tools,negative,27,5
+Can u provide cost breakdown?,neutral,29,5
+Id love to explore solution!,positive,28,5
+Lets discuss in meeting!,positive,24,4
+Doesnt meet requirements,negative,24,3
+Can u share feature roadmap?,neutral,28,5
+Can u share pricing structure?,neutral,30,5
+Can you share more information?,neutral,31,5
+Plz send pricing structure,neutral,26,4
+Can u share cost structure?,neutral,27,5
+Plz send pricing guide,neutral,22,4
+Send demo link plz,neutral,18,4
+Looking forward to the meeting next week.,positive,41,7
+No intrest right now,negative,20,4
+Lets discuss in meeting!,positive,24,4
+Not open to vendors,negative,19,4
+No intrest in product,negative,21,4
+Send feature list plz,neutral,21,4
+Can u share comparison w/ competitors?,neutral,38,6
+Not fit for strategy,negative,20,4
+What exactly does your product do?,neutral,34,6
+Lets discuss in meeting!,positive,24,4
+What exactly does your product do?,neutral,34,6
+No need in workflow,negative,19,4
+Can u provide trial account?,neutral,28,5
+Not fit for strategy,negative,20,4
+Not open to vendors,negative,19,4
+Im eager to learn more!,positive,23,5
+"Not interested, thank you.",negative,26,4
+Can u share feature list?,neutral,25,5
+"This could streamline, talk!",positive,28,4
+Im excited to learn more!,positive,25,5
+Were happy w/ setup,negative,19,4
+We don’t need this solution right now.,negative,38,7
+Send feature list plz,neutral,21,4
+No need for this,negative,16,4
+Looking forward to the meeting next week.,positive,41,7
+Id love to see in action!,positive,25,6
+Id love to see demo!,positive,20,5
+Can you share more information?,neutral,31,5
+"I’m busy this week, maybe later.",neutral,32,6
+No need in workflow,negative,19,4
+Send pricing breakdown plz,neutral,26,4
+Looking forward to the meeting next week.,positive,41,7
+"This could streamline, connect!",positive,31,4
+"Yes, I would love to schedule a demo.",positive,37,8
+Send demo link plz,neutral,18,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+Not fit for strategy,negative,20,4
+Not open to vendors,negative,19,4
+No intrest right now,negative,20,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+Not open to vendors,negative,19,4
+Can u provide case study?,neutral,25,5
+No need for solution,negative,20,4
+"Yes, I would love to schedule a demo.",positive,37,8
+Lets set up product overview!,positive,29,5
+Send demo link plz,neutral,18,4
+Id love to learn more!,positive,22,5
+Im eager to review!,positive,19,4
+No intrest right now,negative,20,4
+Plz send pricing breakdown,neutral,26,4
+Lets discuss in meeting!,positive,24,4
+No need in workflow,negative,19,4
+Can u share cost structure?,neutral,27,5
+Can u share case study?,neutral,23,5
+No need in workflow,negative,19,4
+Can u provide feature comparison?,neutral,33,5
+Lets schdule demo next week!,positive,28,5
+Lets discuss how integrates!,positive,28,4
+Plz send support terms,neutral,22,4
+Can u provide demo video?,neutral,25,5
+Lets schdule demo next week!,positive,28,5
+Plz send feature comparison,neutral,27,4
+Plz send technical specs,neutral,24,4
+"This sounds great, schdule call!",positive,32,5
+No intrest in product,negative,21,4
+Not intrest right now,negative,21,4
+Ill need more details for team,neutral,30,6
+Plz send feature list,neutral,21,4
+Were happy w/ setup,negative,19,4
+Send technical guide plz,neutral,24,4
+Please remove me from your mailing list.,negative,40,7
+"Yes, I would love to schedule a demo.",positive,37,8
+Send pricing breakdown plz,neutral,26,4
+"This sounds great, connect!",positive,27,4
+No need in workflow,negative,19,4
+Were locked into contract,negative,25,4
+Can u share cost breakdown?,neutral,27,5
+"This could be perfect, send proposal!",positive,37,6
+"Im intrsted, lets schdule discussion",positive,36,5
+No need for solution,negative,20,4
+Were happy w/ setup,negative,19,4
+No intrest in product,negative,21,4
+Im eager to explore!,positive,20,4
+Send demo link plz,neutral,18,4
+Plz send pricing guide,neutral,22,4
+Lets schdule demo next week!,positive,28,5
+Id love to see demo!,positive,20,5
+I am not the right person to contact.,negative,37,8
+No intrested in service,negative,23,4
+"Please share the details, I’m interested.",positive,41,6
+"This could be perfect, talk!",positive,28,5
+Can u share cost breakdown?,neutral,27,5
+We already have a vendor for this.,negative,34,7
+Can u share feature list?,neutral,25,5
+Not fit for team,negative,16,4
+Not intrested in service,negative,24,4
+"I’m busy this week, maybe later.",neutral,32,6
+"Sounds interesting, let’s set up a call.",positive,40,7
+Im excited to explore!,positive,22,4
+"Please share the details, I’m interested.",positive,41,6
+Lets set up product overview!,positive,29,5
+We don’t need this solution right now.,negative,38,7
+Not intrested at this time,negative,26,5
+Lets set up product overview!,positive,29,5
+"This could work for our team, send me the proposal.",positive,51,10
+No intrest right now,negative,20,4
+No need for solution,negative,20,4
+Im excited to review!,positive,21,4
+Lets set up product walkthrough!,positive,32,5
+Can u send pricing tiers?,neutral,25,5
+Plz send contract terms,neutral,23,4
+Can u provide demo video?,neutral,25,5
+Id love to explore!,positive,19,4
+Im eager to explore!,positive,20,4
+Can u share demo video?,neutral,23,5
+No need in workflow,negative,19,4
+Send pricing guide plz,neutral,22,4
+No intrested in service,negative,23,4
+Plz send pricing structure,neutral,26,4
+Can u share trial account?,neutral,26,5
+"This could be perfect, send proposal!",positive,37,6
+Doesnt meet requirements,negative,24,3
+No intrest in product,negative,21,4
+Id love to learn more!,positive,22,5
+Lets set up product overview!,positive,29,5
+"This could be perfect, connect!",positive,31,5
+Can u share pricing structure?,neutral,30,5
+Plz send technical guide,neutral,24,4
+Send pricing structure plz,neutral,26,4
+Can u share cost structure?,neutral,27,5
+No need for this,negative,16,4
+Not good fit for team,negative,21,5
+Can you share more information?,neutral,31,5
+Please remove me from your mailing list.,negative,40,7
+Lets set up product overview!,positive,29,5
+Id love to explore solution!,positive,28,5
+No need for solution,negative,20,4
+No intrest in service,negative,21,4
+Send demo link plz,neutral,18,4
+Can u share cost structure?,neutral,27,5
+No intrest in product,negative,21,4
+Please remove me from your mailing list.,negative,40,7
+Can u share feature list?,neutral,25,5
+Id love to learn more!,positive,22,5
+"I’m busy this week, maybe later.",neutral,32,6
+Id love to explore solution!,positive,28,5
+Not intrested right now,negative,23,4
+No intrested in service,negative,23,4
+Send demo link plz,neutral,18,4
+We don’t need this solution right now.,negative,38,7
+Im eager to learn more!,positive,23,5
+Send technical specs plz,neutral,24,4
+Plz send support plan,neutral,21,4
+Looking forward to the meeting next week.,positive,41,7
+Id love to review w/ team!,positive,26,6
+Not open to vendors,negative,19,4
+Id love to review w/ team!,positive,26,6
+Can u share cost breakdown?,neutral,27,5
+Plz send pricing guide,neutral,22,4
+Lets set up product overview!,positive,29,5
+Send support terms plz,neutral,22,4
+Lets discuss how integrates!,positive,28,4
+Lets discuss in meeting!,positive,24,4
+Im excited about oppurtunity!,positive,29,4
+Send feature list,neutral,17,3
+Not intrested in offer,negative,22,4
+Can u share pricing guide?,neutral,26,5
+I’ll forward this to my manager.,neutral,32,6
+Can u provide pricing breakdown?,neutral,32,5
+"Please share the details, I’m interested.",positive,41,6
+Were happy w/ setup,negative,19,4
+No need for solution,negative,20,4
+We don’t need this solution right now.,negative,38,7
+"Not interested, thank you.",negative,26,4
+Id love to explore!,positive,19,4
+Not good fit for us,negative,19,5
+"This looks promising, connect!",positive,30,4
+Can u share pricing guide?,neutral,26,5
+Plz send technical guide,neutral,24,4
+Lets schdule product overview!,positive,30,4
+"Please share the details, I’m interested.",positive,41,6
+"This could be perfect, send proposal!",positive,37,6
+Lets discuss how integrates!,positive,28,4
+Not fit for strategy,negative,20,4
+Send demo link plz,neutral,18,4
+Not open to solutions,negative,21,4
+Send demo link plz,neutral,18,4
+"This could streamline process, lets talk",positive,40,6
+We don’t need this solution right now.,negative,38,7
+Plz send feature comparison,neutral,27,4
+No need for this,negative,16,4
+Id love to learn more!,positive,22,5
+What exactly does your product do?,neutral,34,6
+Id love to see demo!,positive,20,5
+Isnt something we need,negative,22,4
+Lets discuss in meeting!,positive,24,4
+Id love to explore further!,positive,27,5
+Im excited to see in action!,positive,28,6
+Not fit for strategy,negative,20,4
+Lets discuss scaling!,positive,21,3
+Not intrested in service,negative,24,4
+Looking forward to the meeting next week.,positive,41,7
+Were happy w/ setup,negative,19,4
+"This could streamline, send proposal!",positive,37,5
+Plz send feature roadmap,neutral,24,4
+No need for solution,negative,20,4
+Lets set up product overview!,positive,29,5
+Plz send support plan,neutral,21,4
+Lets explore in meeting!,positive,24,4
+Not fit for strategy,negative,20,4
+Can u provide feature list?,neutral,27,5
+Id love to review w/ team!,positive,26,6
+Plz share integration guide,neutral,27,4
+Doesnt meet requirements,negative,24,3
+No need in workflow,negative,19,4
+Lets set up call!,positive,17,4
+Id love to see in action!,positive,25,6
+Not open to vendors,negative,19,4
+Can u share case study?,neutral,23,5
+Not intrest in product,negative,22,4
+"This could help, send details!",positive,30,5
+No need for solution,negative,20,4
+Can u share cost breakdown?,neutral,27,5
+Lets discuss how benefits!,positive,26,4
+Plz send feature comparison,neutral,27,4
+No intrest in product,negative,21,4
+Not intrest in product,negative,22,4
+"This sounds great, schdule call!",positive,32,5
+"Please share the details, I’m interested.",positive,41,6
+Im excited to see in action!,positive,28,6
+Lets discuss in meeting!,positive,24,4
+Im eager to explore!,positive,20,4
+Id love to explore solution!,positive,28,5
+"Not interested, thank you.",negative,26,4
+Lets discuss how integrates!,positive,28,4
+Looking forward to the meeting next week.,positive,41,7
+Can u provide feature list?,neutral,27,5
+Can u send technical guide?,neutral,27,5
+I am not the right person to contact.,negative,37,8
+"Yes, I would love to schedule a demo.",positive,37,8
+Lets schdule demo next week!,positive,28,5
+Send demo link plz,neutral,18,4
+Send pricing structure plz,neutral,26,4
+Id love to review w/ team!,positive,26,6
+Send feature list plz,neutral,21,4
+Id love to discuss further!,positive,27,5
+Lets set up product overview!,positive,29,5
+Can u share pricing guide?,neutral,26,5
+Can u share feature comparison?,neutral,31,5
+Im eager to review!,positive,19,4
+Send pricing guide plz,neutral,22,4
+No intrest in product,negative,21,4
+"This sounds great, send proposal!",positive,33,5
+Send pricing breakdown plz,neutral,26,4
+Not open to vendors,negative,19,4
+We don’t need this solution right now.,negative,38,7
+Can u share case study?,neutral,23,5
+Doesnt meet requirements,negative,24,3
+Can u provide pricing guide?,neutral,28,5
+Im eager to review!,positive,19,4
+No need for this,negative,16,4
+Not good fit for us,negative,19,5
+Im excited to see demo!,positive,23,5
+Im eager to learn more!,positive,23,5
+Plz send support plan,neutral,21,4
+Send pricing breakdown plz,neutral,26,4
+Not good fit for team,negative,21,5
+"This looks promising, schdule demo!",positive,35,5
+No need for this,negative,16,4
+Id love to see in action!,positive,25,6
+Can u send product roadmap?,neutral,27,5
+Lets schdule demo next week!,positive,28,5
+Doesnt fit strategy,negative,19,3
+Can u provide demo video?,neutral,25,5
+Plz share support plan,neutral,22,4
+lets set up call next week,positive,26,6
+"This could streamline, send proposal!",positive,37,5
+I’ll forward this to my manager.,neutral,32,6
+Lets schdule call to review features,positive,36,6
+Send technical specs plz,neutral,24,4
+Can u confirm delivery timeline,neutral,31,5
+I’ll forward this to my manager.,neutral,32,6
+No intrest right now,negative,20,4
+Not intrested in product,negative,24,4
+Were happy w/ setup,negative,19,4
+Not open to vendors,negative,19,4
+Plz send pricing structure,neutral,26,4
+Not good fit for us,negative,19,5
+No intrest right now,negative,20,4
+Can u provide trial account?,neutral,28,5
+Id love to review w/ team!,positive,26,6
+Plz send feature roadmap,neutral,24,4
+Can u provide trial account?,neutral,28,5
+Not fit for strategy,negative,20,4
+Lets discuss in meeting!,positive,24,4
+Im excited about oppurtunity!,positive,29,4
+Looking forward to the meeting next week.,positive,41,7
+No intrested in service,negative,23,4
+I am not the right person to contact.,negative,37,8
+No intrest right now,negative,20,4
+No need for this,negative,16,4
+"This could be perfect, connect!",positive,31,5
+Lets discuss how integrates!,positive,28,4
+Send feature roadmap plz,neutral,24,4
+"Not interested, thank you.",negative,26,4
+Dont see value in solution,negative,26,5
+Can u share feature roadmap?,neutral,28,5
+Send pricing structure plz,neutral,26,4
+"This could be perfect, connect!",positive,31,5
+Not good fit for team,negative,21,5
+"This could be perfect, send proposal!",positive,37,6
+Plz send technical specs,neutral,24,4
+I’ll forward this to my manager.,neutral,32,6
+"This could be game-changer, talk!",positive,33,5
+Can you share more information?,neutral,31,5
+Not open to vendors,negative,19,4
+Send support terms plz,neutral,22,4
+No need for solution,negative,20,4
+"I’m busy this week, maybe later.",neutral,32,6
+Im eager to see how works!,positive,26,6
+Plz send feature comparison,neutral,27,4
+Send demo link plz,neutral,18,4
+Send product specs plz,neutral,22,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+Lets set up call!,positive,17,4
+No intrest in service,negative,21,4
+No intrest in product,negative,21,4
+Id love to see demo!,positive,20,5
+No intrest in product,negative,21,4
+Can u share demo video?,neutral,23,5
+No intrest in product,negative,21,4
+We don’t need this solution right now.,negative,38,7
+I am not the right person to contact.,negative,37,8
+No intrest right now,negative,20,4
+We already have a vendor for this.,negative,34,7
+I am not the right person to contact.,negative,37,8
+Im eager to learn more!,positive,23,5
+Send demo video plz,neutral,19,4
+Lets set up product overview!,positive,29,5
+Not good fit for us,negative,19,5
+No need for this,negative,16,4
+Not aligned w/ goals,negative,20,4
+Weve commited to another solution,negative,33,5
+No need for solution,negative,20,4
+Can u provide pricing guide?,neutral,28,5
+Can u send feature comparison?,neutral,30,5
+Can u provide case study?,neutral,25,5
+We already have a vendor for this.,negative,34,7
+"I’m busy this week, maybe later.",neutral,32,6
+"This could streamline, talk!",positive,28,4
+Can you share more information?,neutral,31,5
+What exactly does your product do?,neutral,34,6
+"This could be perfect, connect!",positive,31,5
+Can u provide trial account?,neutral,28,5
+Id love to see demo!,positive,20,5
+Doesnt align w/ goals,negative,21,4
+Send me the details and I’ll review.,neutral,36,7
+Not good fit for team,negative,21,5
+Were alredy using similar product,negative,33,5
+Not open to vendors,negative,19,4
+Can u provide case study?,neutral,25,5
+I’ll forward this to my manager.,neutral,32,6
+Id love to learn more!,positive,22,5
+Send feature comparison plz,neutral,27,4
+Can u provide demo link?,neutral,24,5
+Id love to see demo!,positive,20,5
+No intrest right now,negative,20,4
+"This could work for our team, send me the proposal.",positive,51,10
+Lets discuss in meeting!,positive,24,4
+No need 4 this in workflow,negative,26,6
+I’ll forward this to my manager.,neutral,32,6
+"This could help, send proposal!",positive,31,5
+Were happy w/ setup,negative,19,4
+"I’m busy this week, maybe later.",neutral,32,6
+Plz send technical specs,neutral,24,4
+Im excited to review!,positive,21,4
+No need for this,negative,16,4
+Send pricing breakdown plz,neutral,26,4
+Plz send technical guide,neutral,24,4
+Lets set time to discuss,positive,24,5
+Not open to vendors,negative,19,4
+We already have a vendor for this.,negative,34,7
+Send feature list plz,neutral,21,4
+Can u share pricing guide?,neutral,26,5
+Not good fit for team,negative,21,5
+Can u share pricing guide?,neutral,26,5
+Lets discuss how integrates!,positive,28,4
+Were happy w/ setup,negative,19,4
+Can u provide pricing comparison?,neutral,33,5
+No need in workflow,negative,19,4
+Were not pursuing,negative,17,3
+Lets schdule demo next week!,positive,28,5
+Not open to vendors,negative,19,4
+Send technical specs plz,neutral,24,4
+Im eager to explore!,positive,20,4
+Lets discuss in meeting!,positive,24,4
+Im excited about oppurtunity!,positive,29,4
+No intrested in service,negative,23,4
+Plz send pricing structure,neutral,26,4
+Lets set up product overview!,positive,29,5
+"This could work for our team, send me the proposal.",positive,51,10
+Plz send demo video,neutral,19,4
+Id love to review w/ team!,positive,26,6
+"This could streamline, talk!",positive,28,4
+Not good fit for team,negative,21,5
+"Im eager to learn more, lets connect",positive,36,7
+Not intrested in service,negative,24,4
+Not good fit for us,negative,19,5
+Not fit for strategy,negative,20,4
+Plz send feature roadmap,neutral,24,4
+"This could streamline, talk!",positive,28,4
+Not open to vendors,negative,19,4
+No intrest right now,negative,20,4
+Lets schdule call to explore,positive,28,5
+No intrest right now,negative,20,4
+Id love to see demo!,positive,20,5
+Id love to discuss w/ team!,positive,27,6
+"This looks great, send proposal!",positive,32,5
+Doesnt meet requirements,negative,24,3
+Can u share feature roadmap?,neutral,28,5
+Can u share cost breakdown?,neutral,27,5
+Send demo link plz,neutral,18,4
+Doesnt meet needs,negative,17,3
+No need for solution,negative,20,4
+"This could streamline, send proposal!",positive,37,5
+Can u share cost structure?,neutral,27,5
+Send pricing guide plz,neutral,22,4
+"Not interested, thank you.",negative,26,4
+Not fit for needs,negative,17,4
+Send feature list plz,neutral,21,4
+No intrest in product,negative,21,4
+Not fit for strategy,negative,20,4
+Can u share feature roadmap?,neutral,28,5
+Can u share cost structure?,neutral,27,5
+Lets discuss how integrates!,positive,28,4
+Can you share more information?,neutral,31,5
+No intrest right now,negative,20,4
+No intrest in product,negative,21,4
+Looking forward to the meeting next week.,positive,41,7
+No need for this,negative,16,4
+Can u share cost breakdown?,neutral,27,5
+Im excited about oppurtunity!,positive,29,4
+Send demo link plz,neutral,18,4
+Im excited about oppurtunity!,positive,29,4
+No intrest in product,negative,21,4
+Can u provide trial account?,neutral,28,5
+Im excited about oppurtunity!,positive,29,4
+Id love to see in action!,positive,25,6
+Not fit for team,negative,16,4
+Im eager to review!,positive,19,4
+Send pricing breakdown plz,neutral,26,4
+"Yes, I would love to schedule a demo.",positive,37,8
+Send demo link plz,neutral,18,4
+Were happy w/ setup,negative,19,4
+Not good fit for team,negative,21,5
+Not open to vendors,negative,19,4
+Send demo link plz,neutral,18,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+We don’t need this solution right now.,negative,38,7
+Id love to learn more!,positive,22,5
+Plz send pricing structure,neutral,26,4
+Can u share cost structure?,neutral,27,5
+Plz send technical guide,neutral,24,4
+Im excited about oppurtunity!,positive,29,4
+"Yes, I would love to schedule a demo.",positive,37,8
+Not open to vendors,negative,19,4
+Dont need this service,negative,22,4
+Not intrested in service,negative,24,4
+Please remove me from your mailing list.,negative,40,7
+No intrest right now,negative,20,4
+Plz send support terms,neutral,22,4
+"This sounds great, schdule call!",positive,32,5
+Im eager to explore!,positive,20,4
+Id love to review!,positive,18,4
+Im eager to learn more!,positive,23,5
+Id love to explore!,positive,19,4
+"This sounds great, connect!",positive,27,4
+Not intrested in service,negative,24,4
+Send demo link plz,neutral,18,4
+Send demo link plz,neutral,18,4
+Can u share cost breakdown?,neutral,27,5
+Send support plan plz,neutral,21,4
+Lets schdule demo next week!,positive,28,5
+Plz send pricing guide,neutral,22,4
+"This could be perfect, send proposal!",positive,37,6
+I’ll forward this to my manager.,neutral,32,6
+Id love to learn more!,positive,22,5
+Clarify subscription model plz,neutral,30,4
+Im excited about oppurtunity!,positive,29,4
+Im eager to see demo!,positive,21,5
+Not open to vendors,negative,19,4
+Not fit for strategy,negative,20,4
+Can u provide demo video?,neutral,25,5
+Lets set up product overview!,positive,29,5
+Can you share more information?,neutral,31,5
+Im eager to review!,positive,19,4
+Im eager to review!,positive,19,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+Not looking to change systems,negative,29,5
+"Please share the details, I’m interested.",positive,41,6
+No intrest in product,negative,21,4
+We don’t need this solution right now.,negative,38,7
+No intrest in product,negative,21,4
+No intrest in product,negative,21,4
+Plz send feature roadmap,neutral,24,4
+Lets discuss in meeting!,positive,24,4
+Im eager to explore!,positive,20,4
+Lets set up product overview!,positive,29,5
+Send pricing structure plz,neutral,26,4
+Were happy w/ setup,negative,19,4
+Send demo link plz,neutral,18,4
+Can u share pricing structure?,neutral,30,5
+Can u share cost structure?,neutral,27,5
+"This could be perfect, talk!",positive,28,5
+Not good fit for team,negative,21,5
+Can u provide demo video?,neutral,25,5
+Can u share pricing tiers?,neutral,26,5
+Can u share feature roadmap?,neutral,28,5
+"This looks great, send details!",positive,31,5
+"This sounds great, send details!",positive,32,5
+Plz send feature list,neutral,21,4
+Send support terms plz,neutral,22,4
+No intrested in service,negative,23,4
+Send demo link plz,neutral,18,4
+Looking forward to the meeting next week.,positive,41,7
+Can u provide demo video?,neutral,25,5
+Can u provide demo video?,neutral,25,5
+Send sample report plz,neutral,22,4
+"This could be perfect, send proposal!",positive,37,6
+No intrest right now,negative,20,4
+Lets set up product overview!,positive,29,5
+Lets discuss how integrates!,positive,28,4
+No need in workflow,negative,19,4
+No need in workflow,negative,19,4
+Id love to discuss further!,positive,27,5
+No need for this,negative,16,4
+No intrest right now,negative,20,4
+No need in workflow,negative,19,4
+Can u share cost structure?,neutral,27,5
+Can u provide feature roadmap?,neutral,30,5
+Send support terms plz,neutral,22,4
+Plz send feature comparison,neutral,27,4
+No intrested in service,negative,23,4
+Plz send technical guide,neutral,24,4
+Send technical guide plz,neutral,24,4
+Im eager to learn more!,positive,23,5
+No intrested in service,negative,23,4
+"Im excited, schdule call!",positive,25,4
+"This could be game-changer, lets talk!",positive,38,6
+No need in workflow,negative,19,4
+Im excited to explore!,positive,22,4
+Not good fit for us,negative,19,5
+Send pricing breakdown plz,neutral,26,4
+No need for solution,negative,20,4
+Were happy w/ setup,negative,19,4
+No intrest in product,negative,21,4
+Doesnt meet requirements,negative,24,3
+Not good fit for us,negative,19,5
+Could u provide ROI data?,neutral,25,5
+Plz send technical guide,neutral,24,4
+Id love to see in action!,positive,25,6
+Not fit for strategy,negative,20,4
+Plz send support terms,neutral,22,4
+Im excited about oppurtunity!,positive,29,4
+Can u provide pricing guide?,neutral,28,5
+What exactly does your product do?,neutral,34,6
+Plz send pricing structure,neutral,26,4
+Can u share trial account?,neutral,26,5
+Not good fit for team,negative,21,5
+Id love to see in action!,positive,25,6
+Were happy w/ setup,negative,19,4
+Send feature comparison plz,neutral,27,4
+Not good fit for team,negative,21,5
+Lets discuss how integrates!,positive,28,4
+Plz send support plan,neutral,21,4
+No intrest right now,negative,20,4
+Not good fit for team,negative,21,5
+Plz send support plan,neutral,21,4
+Im eager to see demo!,positive,21,5
+Can u share cost breakdown?,neutral,27,5
+Send pricing guide plz,neutral,22,4
+Im eager to review!,positive,19,4
+Lets schdule demo next week!,positive,28,5
+No need in workflow,negative,19,4
+Id love to learn more!,positive,22,5
+Plz send pricing structure,neutral,26,4
+Were happy w/ setup,negative,19,4
+"This sounds great, schdule call!",positive,32,5
+Im eager to explore!,positive,20,4
+Send demo link plz,neutral,18,4
+Not fit for strategy,negative,20,4
+No need in workflow,negative,19,4
+Id love to explore further!,positive,27,5
+Plz send support plan,neutral,21,4
+Not good fit for us,negative,19,5
+"This could streamline, send proposal!",positive,37,5
+No need in workflow,negative,19,4
+Im eager to review!,positive,19,4
+Were happy w/ setup,negative,19,4
+"This could streamline, talk!",positive,28,4
+Id love to review w/ team!,positive,26,6
+"Not good fit, thx.",negative,18,4
+Can you share more information?,neutral,31,5
+I’ll forward this to my manager.,neutral,32,6
+Not open to vendors,negative,19,4
+"Not interested, thank you.",negative,26,4
+Not fit for team,negative,16,4
+Id love to review w/ team!,positive,26,6
+Not fit for strategy,negative,20,4
+"Yes, I would love to schedule a demo.",positive,37,8
+Can u share pricing structure?,neutral,30,5
+"Not interested, thank you.",negative,26,4
+Send pricing guide plz,neutral,22,4
+"I’m busy this week, maybe later.",neutral,32,6
+Im looking forward to presentation!,positive,35,5
+Id love to review w/ team!,positive,26,6
+Can u provide case study?,neutral,25,5
+Can u share demo video?,neutral,23,5
+Can u provide client reference?,neutral,31,5
+Not fit for strategy,negative,20,4
+Id love to review w/ team!,positive,26,6
+"This could be perfect, send proposal!",positive,37,6
+Lets discuss how this benefits us,positive,33,6
+Id love to learn more!,positive,22,5
+Plz send technical guide,neutral,24,4
+Plz send feature comparison,neutral,27,4
+We already have a vendor for this.,negative,34,7
+Not intrested in service,negative,24,4
+Lets schdule demo next week!,positive,28,5
+Were not in market,negative,18,4
+Not intrest right now,negative,21,4
+Can u share pricing breakdown?,neutral,30,5
+No intrest right now,negative,20,4
+Plz send pricing breakdown,neutral,26,4
+Can u share cost breakdown?,neutral,27,5
+No need for solution,negative,20,4
+Im eager to learn more!,positive,23,5
+No intrest in product,negative,21,4
+"This sounds great, connect!",positive,27,4
+"Im excited, lets connect!",positive,25,4
+Were happy w/ setup,negative,19,4
+Not intrest right now,negative,21,4
+No intrest in product,negative,21,4
+"This could be perfect, connect!",positive,31,5
+Id love to see demo!,positive,20,5
+"This sounds great, talk!",positive,24,4
+Lets set up product overview!,positive,29,5
+No need for this,negative,16,4
+Lets discuss how integrates!,positive,28,4
+"Not interested, thank you.",negative,26,4
+Not good fit for team,negative,21,5
+Can u provide trial account?,neutral,28,5
+"Sounds interesting, let’s set up a call.",positive,40,7
+Plz send technical guide,neutral,24,4
+No need for solution,negative,20,4
+Plz share support plan,neutral,22,4
+Plz send cost structure,neutral,23,4
+Not fit for strategy,negative,20,4
+"I’m busy this week, maybe later.",neutral,32,6
+Send user guide plz,neutral,19,4
+Plz stop contacting me.,negative,23,4
+Lets set up product overview!,positive,29,5
+Lets schdule demo next week,positive,27,5
+Can u share cost structure?,neutral,27,5
+Lets discuss how integrates!,positive,28,4
+Can u provide case study?,neutral,25,5
+Please remove me from your mailing list.,negative,40,7
+Plz send pricing guide,neutral,22,4
+Can u provide demo video?,neutral,25,5
+Im excited about oppurtunity!,positive,29,4
+Id love to explore!,positive,19,4
+Can u share pricing guide?,neutral,26,5
+Can u share case study?,neutral,23,5
+Lets set up product overview!,positive,29,5
+Plz send pricing structure,neutral,26,4
+Not open to vendors,negative,19,4
+Can you provide case study?,neutral,27,5
+Send feature roadmap plz,neutral,24,4
+Not good fit for team,negative,21,5
+No intrest in product,negative,21,4
+Id love to see demo!,positive,20,5
+"This could streamline, connect!",positive,31,4
+No intrest right now,negative,20,4
+"lets,, schedule a meeting to dive deeper",positive,40,7
+No need for this,negative,16,4
+"This could be perfect, send proposal!",positive,37,6
+No need in workflow,negative,19,4
+"I’m busy this week, maybe later.",neutral,32,6
+Lets discuss how integrates!,positive,28,4
+Lets discuss in meeting!,positive,24,4
+Not open to new tools,negative,21,5
+Can u clarify licensing model?,neutral,30,5
+Doesnt meet requirements,negative,24,3
+No intrested in service,negative,23,4
+Not open to solutions,negative,21,4
+Can u share demo video?,neutral,23,5
+Can u provide feature roadmap?,neutral,30,5
+Lets schdule demo next week!,positive,28,5
+Im excited to explore!,positive,22,4
+Send demo link plz,neutral,18,4
+Not priority for us,negative,19,4
+Please send feature list,neutral,24,4
+"This could be perfect, send proposal!",positive,37,6
+Can u share cost structure?,neutral,27,5
+No intrest right now,negative,20,4
+Can u share pricing guide?,neutral,26,5
+Lets discuss how integrates!,positive,28,4
+Not good fit for us,negative,19,5
+Can u share setup process?,neutral,26,5
+"This could be perfect, send proposal!",positive,37,6
+"This could work for our team, send me the proposal.",positive,51,10
+"This could be perfect, send proposal!",positive,37,6
+"Please share the details, I’m interested.",positive,41,6
+Not fit for strategy,negative,20,4
+Plz send feature comparison,neutral,27,4
+Not good fit for team,negative,21,5
+Can u share pricing breakdown?,neutral,30,5
+Dont need this moment,negative,21,4
+Plz send pricing guide,neutral,22,4
+Im excited to review further!,positive,29,5
+Not open to vendors,negative,19,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+Can u provide feature roadmap?,neutral,30,5
+Not open to vendors,negative,19,4
+We already have a vendor for this.,negative,34,7
+Can u share pricing structure?,neutral,30,5
+I am not the right person to contact.,negative,37,8
+Plz send support terms,neutral,22,4
+Im excited to explore!,positive,22,4
+No intrest right now,negative,20,4
+Can you share more information?,neutral,31,5
+Im excited about oppurtunity!,positive,29,4
+"Please share the details, I’m interested.",positive,41,6
+Not good fit for team,negative,21,5
+No intrested in service,negative,23,4
+No need for this,negative,16,4
+"This sounds great, schdule call!",positive,32,5
+Plz send pricing guide,neutral,22,4
+No intrest right now,negative,20,4
+Plz send support plan,neutral,21,4
+Can u provide trial account?,neutral,28,5
+Not fit for strategy,negative,20,4
+Plz send feature roadmap,neutral,24,4
+Not open to vendors,negative,19,4
+No need for this,negative,16,4
+Can u share case study?,neutral,23,5
+Lets set up product overview!,positive,29,5
+Lets discuss in meeting!,positive,24,4
+Im eager to review!,positive,19,4
+Can u provide case study?,neutral,25,5
+Lets schdule demo next week!,positive,28,5
+Can u share feature comparison?,neutral,31,5
+"Please share the details, I’m interested.",positive,41,6
+Can u share cost structure?,neutral,27,5
+We already have a vendor for this.,negative,34,7
+No intrest in product,negative,21,4
+Lets discuss how integrates!,positive,28,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+Can u provide pricing breakdown?,neutral,32,5
+No intrest in product,negative,21,4
+"This could be game-changer, connect!",positive,36,5
+Can you share more information?,neutral,31,5
+"This could be perfect, talk!",positive,28,5
+Can u share cost structure?,neutral,27,5
+"This could work for our team, send me the proposal.",positive,51,10
+"This sounds great, connect!",positive,27,4
+"Im excited, schdule call!",positive,25,4
+Can u share demo video?,neutral,23,5
+Id love to review w/ team!,positive,26,6
+Looking forward to the meeting next week.,positive,41,7
+Can u share cost breakdown?,neutral,27,5
+Id love to explore solution!,positive,28,5
+Dont need this moment,negative,21,4
+Plz share feature comparison,neutral,28,4
+Im eager to learn more!,positive,23,5
+No intrest right now,negative,20,4
+Send demo link plz,neutral,18,4
+Not good fit for us,negative,19,5
+Lets set up product overview!,positive,29,5
+"This could streamline, connect!",positive,31,4
+"I’m busy this week, maybe later.",neutral,32,6
+Send demo link plz,neutral,18,4
+No need for this,negative,16,4
+"This could streamline, talk!",positive,28,4
+No intrest in service,negative,21,4
+Send implementation guide plz,neutral,29,4
+Can u provide pricing guide?,neutral,28,5
+Not fit for our needs,negative,21,5
+Can u share feature list?,neutral,25,5
+Plz send feature roadmap,neutral,24,4
+Id love to review!,positive,18,4
+Plz send feature comparison,neutral,27,4
+Can u share case study?,neutral,23,5
+No need for this,negative,16,4
+"This could work for our team, send me the proposal.",positive,51,10
+Excited to see how this works!,positive,30,6
+Plz clarify support options,neutral,27,4
+Plz share support plan,neutral,22,4
+Lets discuss in meeting!,positive,24,4
+Doesnt meet requirements,negative,24,3
+Lets discuss in meeting!,positive,24,4
+Send pricing structure plz,neutral,26,4
+Lets schdule demo next week!,positive,28,5
+Plz send support terms,neutral,22,4
+Send me the details and I’ll review.,neutral,36,7
+Dont have budget for this,negative,25,5
+Plz send technical specs,neutral,24,4
+Plz send technical guide,neutral,24,4
+Plz send support plan,neutral,21,4
+Doesnt meet requirements,negative,24,3
+Send pricing guide plz,neutral,22,4
+What exactly does your product do?,neutral,34,6
+Im excited about oppurtunity!,positive,29,4
+Lets discuss in meeting!,positive,24,4
+Can u provide case study?,neutral,25,5
+"This could streamline, send proposal!",positive,37,5
+Can u share trial account?,neutral,26,5
+Not fit for strategy,negative,20,4
+Im excited to explore!,positive,22,4
+Im eager to learn more!,positive,23,5
+Lets talk about scaling,positive,23,4
+Lets schdule demo next week!,positive,28,5
+Im eager to review!,positive,19,4
+Lets schdule demo next week!,positive,28,5
+Plz send feature list,neutral,21,4
+We don’t need this solution right now.,negative,38,7
+Plz send feature list,neutral,21,4
+We already have a vendor for this.,negative,34,7
+"This sounds great, connect!",positive,27,4
+"This could streamline, talk!",positive,28,4
+Can u provide cost breakdown?,neutral,29,5
+Im eager to learn more!,positive,23,5
+"This could streamline, connect!",positive,31,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+Not good fit for team,negative,21,5
+Lets discuss how integrates!,positive,28,4
+Plz send feature comparison,neutral,27,4
+"Im excited, send proposal!",positive,26,4
+Lets schdule demo next week!,positive,28,5
+Can u provide demo video?,neutral,25,5
+Im excited about oppurtunity!,positive,29,4
+"This looks great, schedule!",positive,27,4
+Plz send support terms,neutral,22,4
+Im eager to learn more!,positive,23,5
+No intrest in product,negative,21,4
+"Please share the details, I’m interested.",positive,41,6
+Send feature roadmap plz,neutral,24,4
+Send demo link plz,neutral,18,4
+Please remove me from your mailing list.,negative,40,7
+No need for this,negative,16,4
+Can u share cost structure?,neutral,27,5
+Not open to vendors,negative,19,4
+I am not the right person to contact.,negative,37,8
+Can u provide case study?,neutral,25,5
+"This could streamline, talk!",positive,28,4
+Not fit for strategy,negative,20,4
+No need in workflow,negative,19,4
+"This could streamline, lets talk!",positive,33,5
+Plz send feature roadmap,neutral,24,4
+Not open to solutions,negative,21,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+Lets discuss how integrates,positive,27,4
+Id love to see demo!,positive,20,5
+Im eager to learn more!,positive,23,5
+We already have a vendor for this.,negative,34,7
+Plz provide feature comparison,neutral,30,4
+No intrest in product,negative,21,4
+Can u provide demo video?,neutral,25,5
+No need for this,negative,16,4
+Can u share trial account?,neutral,26,5
+Can u share cost structure?,neutral,27,5
+Not open to vendors,negative,19,4
+No intrest in product,negative,21,4
+Can u provide case study?,neutral,25,5
+Can u share pricing guide?,neutral,26,5
+Were happy w/ setup,negative,19,4
+Can u provide feature list?,neutral,27,5
+Isnt priority now,negative,17,3
+I am not the right person to contact.,negative,37,8
+"This could streamline, talk!",positive,28,4
+Can u provide demo video?,neutral,25,5
+Can u provide trial account?,neutral,28,5
+Can u provide case study?,neutral,25,5
+"This could work for our team, send me the proposal.",positive,51,10
+Can u share feature comparison?,neutral,31,5
+Im excited about potential!,positive,27,4
+Im eager to explore!,positive,20,4
+Not pursuing right now,negative,22,4
+Can u share feature comparison?,neutral,31,5
+"This sounds great, connect!",positive,27,4
+Send demo link plz,neutral,18,4
+Plz send support terms,neutral,22,4
+Send me the details and I’ll review.,neutral,36,7
+"This sounds great, schdule call!",positive,32,5
+Can u share pricing breakdown?,neutral,30,5
+Looking forward to the meeting next week.,positive,41,7
+"This looks great, send proposal!",positive,32,5
+Can u provide trial account?,neutral,28,5
+Id love to see demo!,positive,20,5
+Can u share cost structure?,neutral,27,5
+Send demo link plz,neutral,18,4
+Im excited about oppurtunity!,positive,29,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+No need in workflow,negative,19,4
+We don’t need this solution right now.,negative,38,7
+Lets schdule demo next week!,positive,28,5
+Im eager to review!,positive,19,4
+No need for this,negative,16,4
+Lets set up product overview!,positive,29,5
+Plz send technical specs,neutral,24,4
+What exactly does your product do?,neutral,34,6
+Can u share onboarding process?,neutral,31,5
+Lets discuss in meeting!,positive,24,4
+Can u provide case study?,neutral,25,5
+Im excited to explore!,positive,22,4
+Im excited to explore!,positive,22,4
+No intrested in service,negative,23,4
+Im eager to learn more!,positive,23,5
+Id love to learn more!,positive,22,5
+Im excited to see in action!,positive,28,6
+Im excited about oppurtunity!,positive,29,4
+Can you share more information?,neutral,31,5
+Not open to vendors,negative,19,4
+Clarify support options plz,neutral,27,4
+"This sounds great, schdule call!",positive,32,5
+Can you share more information?,neutral,31,5
+Lets discuss in meeting!,positive,24,4
+No need in workflow,negative,19,4
+Id love to learn more!,positive,22,5
+Id love to learn more!,positive,22,5
+Not good fit for us,negative,19,5
+Were not looking to change providers,negative,36,6
+Can u share cost structure?,neutral,27,5
+Send me the details and I’ll review.,neutral,36,7
+"Yes, I would love to schedule a demo.",positive,37,8
+Not open to vendors,negative,19,4
+Im eager to see demo!,positive,21,5
+"This looks great fit, send proposal!",positive,36,6
+Can u provide demo video?,neutral,25,5
+"I’m busy this week, maybe later.",neutral,32,6
+Not open to vendors,negative,19,4
+No intrest right now,negative,20,4
+No need for this,negative,16,4
+Id love to see in action!,positive,25,6
+Please remove me from your mailing list.,negative,40,7
+No need in workflow,negative,19,4
+Im excited to see in action!,positive,28,6
+Were happy w/ setup,negative,19,4
+No need for solution,negative,20,4
+"This could work for our team, send me the proposal.",positive,51,10
+"Please share the details, I’m interested.",positive,41,6
+Not fit for strategy,negative,20,4
+No need for solution,negative,20,4
+"Sounds interesting, let’s set up a call.",positive,40,7
+Send feature comparison plz,neutral,27,4
+Id love to explore solution!,positive,28,5
+Id love to see in action!,positive,25,6
+"This looks great, lets talk!",positive,28,5
+Lets set up product overview!,positive,29,5
+Not intrested in product,negative,24,4
+Not intrested in service,negative,24,4
+Im excited to see demo!,positive,23,5
+No need in workflow,negative,19,4
+Id love to see in action!,positive,25,6
+Im eager to review!,positive,19,4
+Please remove me from your mailing list.,negative,40,7
+Id love to explore solution!,positive,28,5
+Can u share cost structure?,neutral,27,5
+Plz send pricing guide,neutral,22,4
+Id love to explore solution!,positive,28,5
+Im eager to review!,positive,19,4
+Send demo link plz,neutral,18,4
+No intrested in service,negative,23,4
+This isnt relevant to business,negative,30,5
+No need for this,negative,16,4
+"This sounds great, schdule call!",positive,32,5
+Lets schdule demo next week!,positive,28,5
+Id love to explore!,positive,19,4
+"This sounds fantastic, connect!",positive,31,4
+Can u share pricing breakdown?,neutral,30,5
+Not relevant to ops,negative,19,4
+Send support terms plz,neutral,22,4
+Can u explain integration?,neutral,26,4
+Were happy w/ setup,negative,19,4
+"This could work for our team, send me the proposal.",positive,51,10
+Send feature list plz,neutral,21,4
+Lets schdule demo next week!,positive,28,5
+No need in workflow,negative,19,4
+Send technical guide plz,neutral,24,4
+"This could work for our team, send me the proposal.",positive,51,10
+Not good fit for team,negative,21,5
+Send pricing breakdown plz,neutral,26,4
+Not good fit for us,negative,19,5
+"This could work for our team, send me the proposal.",positive,51,10
+No intrested in service,negative,23,4
+Id love to see demo!,positive,20,5
+No intrested in service,negative,23,4
+Were not pursuing,negative,17,3
+Can u share cost structure?,neutral,27,5
+Lets set up product overview!,positive,29,5
+I’ll forward this to my manager.,neutral,32,6
+Not relevant to goals,negative,21,4
+Id love to see demo!,positive,20,5
+Not open to vendors,negative,19,4
+Plz send feature comparison,neutral,27,4
+"This sounds great, schdule call!",positive,32,5
+Id love to explore!,positive,19,4
+Were happy w/ setup,negative,19,4
+Id love to see demo!,positive,20,5
+Lets discuss how integrates!,positive,28,4
+Plz send pricing guide,neutral,22,4
+No intrest in product,negative,21,4
+We don’t need this solution right now.,negative,38,7
+Lets discuss how integrates!,positive,28,4
+No need in workflow,negative,19,4
+Plz send pricing guide,neutral,22,4
+Can u share cost structure?,neutral,27,5
+No need for solution,negative,20,4
+Send pricing structure plz,neutral,26,4
+No need for this,negative,16,4
+Can u provide demo video?,neutral,25,5
+"I’m busy this week, maybe later.",neutral,32,6
+Can u share demo video?,neutral,23,5
+Im excited to learn more!,positive,25,5
+Plz send feature comparison,neutral,27,4
+Im excited about oppurtunity!,positive,29,4
+Plz send pricing structure,neutral,26,4
+No need for this,negative,16,4
+Lets set up demo!,positive,17,4
+No intrest in product,negative,21,4
+Can u share case study?,neutral,23,5
+No need for solution,negative,20,4
+Can u provide demo video?,neutral,25,5
+Can u provide case study?,neutral,25,5
+Id love to see demo!,positive,20,5
+Id love to review w/ team!,positive,26,6
+No need for solution,negative,20,4
+Can u provide demo video?,neutral,25,5
+Lets set up product overview!,positive,29,5
+Not fit for strategy,negative,20,4
+Im excited to see demo!,positive,23,5
+Can u share feature comparison?,neutral,31,5
+Plz send support terms,neutral,22,4
+Im excited about oppurtunity!,positive,29,4
+I’ll forward this to my manager.,neutral,32,6
+No need for solution,negative,20,4
+No need for solution,negative,20,4
+Can u share feature roadmap?,neutral,28,5
+Not relevant to team,negative,20,4
+Can u provide pricing breakdown?,neutral,32,5
+Can u share cost structure?,neutral,27,5
+Not intrested in service,negative,24,4
+Looking forward to the meeting next week.,positive,41,7
+No need for this,negative,16,4
+Doesnt align w/ needs,negative,21,4
+Please remove me from your mailing list.,negative,40,7
+Send feature comparison plz,neutral,27,4
+Send support terms plz,neutral,22,4
+"This looks great, connect!",positive,26,4
+Send feature list plz,neutral,21,4
+Not good fit for us,negative,19,5
+Send pricing breakdown plz,neutral,26,4
+Can u share demo video?,neutral,23,5
+Plz send demo link,neutral,18,4
+"Not interested, thank you.",negative,26,4
+No intrested in service,negative,23,4
+Can u share cost structure?,neutral,27,5
+Not intrest right now,negative,21,4
+Ill need to review w/ boss,neutral,26,6
+Can u provide feature roadmap?,neutral,30,5
+Im eager to review!,positive,19,4
+Id love to see demo!,positive,20,5
+Id love to see how works!,positive,25,6
+I’ll forward this to my manager.,neutral,32,6
+No intrest in product,negative,21,4
+"This sounds great, connect!",positive,27,4
+"This looks great, connect!",positive,26,4
+Plz share support plan,neutral,22,4
+What exactly does your product do?,neutral,34,6
+No need in workflow,negative,19,4
+Send demo video plz,neutral,19,4
+I’ll forward this to my manager.,neutral,32,6
+Im excited to see in action!,positive,28,6
+Send implementation guide plz,neutral,29,4
+Plz send feature comparison,neutral,27,4
+Were happy w/ setup,negative,19,4
+"This could streamline, connect!",positive,31,4
+Plz send support plan,neutral,21,4
+Id love to see demo!,positive,20,5
+"Yes, I would love to schedule a demo.",positive,37,8
+Lets discuss how integrates!,positive,28,4
+Not open to vendors,negative,19,4
+Not fit for strategy,negative,20,4
+Please remove me from your mailing list.,negative,40,7
+Not good fit for team,negative,21,5
+Im eager to see in action!,positive,26,6
+Im excited to see in action!,positive,28,6
+Lets discuss in meeting!,positive,24,4
+Plz send feature roadmap,neutral,24,4
+Were happy w/ setup,negative,19,4
+Id love to review w/ team!,positive,26,6
+Can u provide pricing breakdown?,neutral,32,5
+No need for solution,negative,20,4
+Can u provide pricing structure?,neutral,32,5
+Not open to vendors,negative,19,4
+"This sounds great, connect!",positive,27,4
+Not fit for strategy,negative,20,4
+Im excited about oppurtunity!,positive,29,4
+Not good fit for team,negative,21,5
+Id love to learn more!,positive,22,5
+Not good fit for us,negative,19,5
+No need for solution,negative,20,4
+No intrested in service,negative,23,4
+Plz send pricing guide,neutral,22,4
+Lets schdule demo next week!,positive,28,5
+No need for solution,negative,20,4
+Id love to see demo!,positive,20,5
+Id love to explore solution!,positive,28,5
+Not fit for strategy,negative,20,4
+Can u provide demo video?,neutral,25,5
+Id love to see in action!,positive,25,6
+Not open to vendors,negative,19,4
+Not intrested in offer,negative,22,4
+No intrest in product,negative,21,4
+Plz send support plan,neutral,21,4
+Can u provide case study?,neutral,25,5
+Can u provide feature comparison?,neutral,33,5
+Not intrested in service,negative,24,4
+"This could work for our team, send me the proposal.",positive,51,10
+Im excited about oppurtunity!,positive,29,4
+Send technical specs plz,neutral,24,4
+Im excited to see in action!,positive,28,6
+Send feature list plz,neutral,21,4
+Send me the details and I’ll review.,neutral,36,7
+Lets discuss how integrates!,positive,28,4
+Id love to see demo!,positive,20,5
+I am not the right person to contact.,negative,37,8
+Can u share demo video?,neutral,23,5
+Not in market for this,negative,22,5
+Plz provide contract terms,neutral,26,4
+Plz send technical specs,neutral,24,4
+"This could streamline, send proposal!",positive,37,5
+No intrest in product,negative,21,4
+Not open to vendors,negative,19,4
+"I’m busy this week, maybe later.",neutral,32,6
+No need in workflow,negative,19,4
+"Please share the details, I’m interested.",positive,41,6
+"Not interested, thank you.",negative,26,4
+Not open to vendors,negative,19,4
+Send support terms plz,neutral,22,4
+Im eager to discuss!,positive,20,4
+No need for this,negative,16,4
+I’ll forward this to my manager.,neutral,32,6
+Lets set up product overview!,positive,29,5
+Doesnt fit strategy,negative,19,3
+"Not interested, thank you.",negative,26,4
+Plz send feature list,neutral,21,4
+"This could be perfect, connect!",positive,31,5
+Can u provide demo video?,neutral,25,5
+Can u provide trial account?,neutral,28,5
+Lets discuss in meeting!,positive,24,4
+Can u provide trial account?,neutral,28,5
+Lets discuss in meeting!,positive,24,4
+Im excited to explore!,positive,22,4
+No need in workflow,negative,19,4
+No intrest right now,negative,20,4
+Can u provide demo link?,neutral,24,5
+Im eager to review!,positive,19,4
+Send support terms plz,neutral,22,4
+Can u provide feature list?,neutral,27,5
+Plz send technical specs,neutral,24,4
+No need for this,negative,16,4
+"I’m busy this week, maybe later.",neutral,32,6
+Send technical specs plz,neutral,24,4
+No need for this,negative,16,4
+Were happy w/ setup,negative,19,4
+Not in market for this,negative,22,5
+Lets schdule product walkthrough,positive,32,4
+Plz send pricing guide,neutral,22,4
+Can u share cost structure?,neutral,27,5
+"Yes, I would love to schedule a demo.",positive,37,8
+Plz send feature roadmap,neutral,24,4
+Not good fit for team,negative,21,5
+Lets discuss how integrates!,positive,28,4
+Not intrested in product,negative,24,4
+I am not the right person to contact.,negative,37,8
+Looking forward to the meeting next week.,positive,41,7
+Can u share support terms?,neutral,26,5
+Can you share more information?,neutral,31,5
+"This could work for our team, send me the proposal.",positive,51,10
+"This could be perfect, connect!",positive,31,5
+"This could be perfect, send proposal!",positive,37,6
+Can u share pricing guide?,neutral,26,5
+"This sounds great, lets connect!",positive,32,5
+Lets arrange demo next week,positive,27,5
+"This could streamline, connect!",positive,31,4
+Were happy w/ setup,negative,19,4
+Can you share more information?,neutral,31,5
+No need for solution,negative,20,4
+Not relevant to our needs,negative,25,5
+Can u share trial account?,neutral,26,5
+Can u share cost breakdown?,neutral,27,5
+Lets discuss how integrates!,positive,28,4
+Can u share API docs?,neutral,21,5
+"Sounds interesting, let’s set up a call.",positive,40,7
+"This could be perfect, send proposal!",positive,37,6
+Can u send product specs?,neutral,25,5
+Lets discuss in meeting!,positive,24,4
+Can you share more information?,neutral,31,5
+Lets discuss how integrates!,positive,28,4
+Not fit for strategy,negative,20,4
+Can u provide case study?,neutral,25,5
+Can u share pricing guide?,neutral,26,5
+"Sounds interesting, let’s set up a call.",positive,40,7
+Not open to vendors,negative,19,4
+No intrest in product,negative,21,4
+"This could be game-changer, schedule!",positive,37,5
+Can u share pricing structure?,neutral,30,5
+"This could work for our team, send me the proposal.",positive,51,10
+Plz send support plan,neutral,21,4
+Im eager to discuss!,positive,20,4
+Can u share feature list?,neutral,25,5
+Not intrested in product,negative,24,4
+Can you share more information?,neutral,31,5
+Not fit for strategy,negative,20,4
+Plz send pricing structure,neutral,26,4
+Im excited about oppurtunity!,positive,29,4
+Plz share cost structure,neutral,24,4
+Were happy w/ setup,negative,19,4
+Lets set up product overview!,positive,29,5
+We already have a vendor for this.,negative,34,7
+Not good fit for us,negative,19,5
+Can u provide feature list?,neutral,27,5
+Id love to review!,positive,18,4
+Send me the details and I’ll review.,neutral,36,7
+Plz send technical guide,neutral,24,4
+Were happy w/ provider,negative,22,4
+Plz send pricing breakdown,neutral,26,4
+Send technical specs plz,neutral,24,4
+"Yes, I would love to schedule a demo.",positive,37,8
+Not fit for strategy,negative,20,4
+Not intrested in offer,negative,22,4
+Im eager to learn more!,positive,23,5
+We don’t need this solution right now.,negative,38,7
+We already have a vendor for this.,negative,34,7
+Can u confirm implementation timeline?,neutral,38,5
+Can u provide pricing structure?,neutral,32,5
+No intrest in product,negative,21,4
+Can u provide trial account?,neutral,28,5
